@@ -2,6 +2,6 @@
 *ISP 2019 - Nanterre - 2019/10/17*  
 *T. Giraud*  
 
-[Présentation](http://rCarto.github.io/ISP_2019/)  
+[Présentation](http://rCarto.github.io/ISP_2019/index.html)  
  
 ![](img/osrm3.png)  
