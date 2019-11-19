@@ -1,7 +1,7 @@
-# Outils cartographiques pour la recherche et l’enseignement - Cartographie avec R  
-*4 octobre 2018 - Atelier Digit Hum- ENS, Paris*  
-*T. Giraud & N. Lambert*  
+# Cartographie avec R - sf et cartography
+*ISP 2019 - Nanterre - 2019/10/17*  
+*T. Giraud*  
 
-[Présentation](http://rCarto.github.io/digit_hum/index.html)  
+[Présentation](http://rCarto.github.io/ISP_2019/)  
  
-![](img/map7.png)  
+![](img/osrm3.png)  
